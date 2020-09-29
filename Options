@@ -1,0 +1,21 @@
+There are verisons of Python and Python packages which we used:
+
+Python 2.7
+
+backports.functools-lru-cache	1.6.1
+cmake	3.18.2.post1	
+cycler	0.10.0	
+kiwisolver	1.1.0	
+matplotlib	2.2.5	
+numpy	1.11.1	
+opencv-python	3.4.5.20
+pip	20.2.3	
+pyparsing	2.4.7	
+python-dateutil	2.8.1	
+pytz	2020.1	
+scipy	1.2.3	
+setuptools	44.1.1	
+six	1.15.0	
+subprocess32	3.5.4	
+wheel	0.35.1	
+wsgiref	0.1.2	
